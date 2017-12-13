@@ -1,0 +1,22 @@
+{
+    "author": {
+        "email": "rreinold@clearblade.com"
+    },
+    "clouds": [],
+    "description": "",
+    "domains": [],
+    "gateways": [],
+    "image_url": "",
+    "keywords": [
+        "tag1",
+        "tag2",
+        "tag3"
+    ],
+    "license": "",
+    "name": "CB_Vending_System_sep-arate",
+    "private": false,
+    "prog_lang": [],
+    "protocols": [],
+    "things": [],
+    "version": ""
+}
